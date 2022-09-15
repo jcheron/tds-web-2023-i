@@ -1,2 +1,5 @@
-# tds-web-2023-i
-Tds HTML, CSS, JS
+# tds-web
+Tds 
+- HTML
+- CSS
+- JS
