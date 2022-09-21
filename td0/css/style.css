@@ -1,0 +1,31 @@
+body {
+	font-family: serif;
+}
+h1, h2, h3 {
+	font-family: "Gill Sans", sans-serif;
+}
+h3{
+	color: gray;
+}
+
+p{
+}
+
+a{
+	font-weight: bold;
+	color: #FF7F50;
+	text-decoration: none;
+}
+#online{
+	font-size: 20px;
+	color: black;
+}
+
+.c-rose{
+	color: pink;
+}
+
+.c-block{
+	color: green;
+	display: block;
+}
