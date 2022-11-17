@@ -1,0 +1,23 @@
+body {
+	background-color: beige ;
+	font-family :sans-serif ;
+}
+
+p{
+	color: blue;
+}
+#ps{
+	text-decoration: underline;
+}
+
+.tc{
+	text-decoration: overline darkGreen;
+}
+
+#bText{
+	background-color: darkCyan;
+	color: white;
+}
+#bText strong {
+	background-color: red;
+}

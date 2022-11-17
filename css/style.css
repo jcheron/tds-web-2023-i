@@ -1,0 +1,45 @@
+body{
+	font-family: serif;
+	color: gray;
+}
+h2 {
+	color: blue;
+	font-family: sans-serif;
+}
+
+#ma-boutique{
+	color:green;
+	font-size: 30px;
+	font-weight: bold;
+	margin: 50px auto;
+	padding: 40px;
+	width: 200px;
+	display: inline-block;
+}
+
+.title{
+	font-size: 45px;
+	text-decoration: underline;
+}
+
+.gras {
+	font-weight: 900;
+	color: darkcyan;
+}
+
+h1, h2:hover, p span {
+	background-color: beige;
+}
+
+
+
+.menu {
+	width: 50%;
+	margin: auto;
+}
+
+
+.menu li {
+	display: inline-block;
+	margin: 0 20px;
+}
