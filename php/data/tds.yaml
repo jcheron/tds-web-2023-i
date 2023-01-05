@@ -1,0 +1,8 @@
+html:
+  td1 :
+    title : "Formatage simple et liens hypertextes"
+    url : "/td1"
+    wikiUrl : "https://slamwiki2.kobject.net/bloc1/basesweb/pratique1"
+  td2 :
+    title : "Formatage de listes"
+    url : "/td1"
